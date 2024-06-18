@@ -58,7 +58,7 @@
     "sass": "^1.56.1",
     "typescript": "4.8.4",
     "unist-util-visit": "^4.1.1",
-    "ws": "^8.11.0"
+    "ws": "^8.17.1"
   },
   "engine": 18
 }
