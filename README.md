@@ -16,7 +16,7 @@ model packaging, deployment and workflow management. spaCy is commercial
 open-source software, released under the
 [MIT license](https://github.com/explosion/spaCy/blob/master/LICENSE).
 
-💫 **Version 3.7 out now!**
+💫 **Version 3.8 out now!**
 [Check out the release notes here.](https://github.com/explosion/spaCy/releases)
 
 [![tests](https://github.com/explosion/spaCy/actions/workflows/tests.yml/badge.svg)](https://github.com/explosion/spaCy/actions/workflows/tests.yml)
@@ -28,7 +28,6 @@ open-source software, released under the
 <br />
 [![PyPi downloads](https://static.pepy.tech/personalized-badge/spacy?period=total&units=international_system&left_color=grey&right_color=orange&left_text=pip%20downloads)](https://pypi.org/project/spacy/)
 [![Conda downloads](https://img.shields.io/conda/dn/conda-forge/spacy?label=conda%20downloads)](https://anaconda.org/conda-forge/spacy)
-[![spaCy on Twitter](https://img.shields.io/twitter/follow/spacy_io.svg?style=social&label=Follow)](https://twitter.com/spacy_io)
 
 ## 📖 Documentation
 
@@ -47,6 +46,7 @@ open-source software, released under the
 | 👩‍🏫 **[Online Course]**                                                                                                                                                                                                    | Learn spaCy in this free and interactive online course.                                                                                                                                                                                                                                                                                      |
 | 📰 **[Blog]**                                                                                                                                                                                                             | Read about current spaCy and Prodigy development, releases, talks and more from Explosion.                                                                                                                                                                                                                 |
 | 📺 **[Videos]**                                                                                                                                                                                                           | Our YouTube channel with video tutorials, talks and more.                                                                                                                                                                                                                                                                                    |
+| 🔴 **[Live Stream]**                                                                                                                                                                                                       | Join Matt as he works on spaCy and chat about NLP.                                                                                                                                                                                                                                                                         |
 | 🛠 **[Changelog]**                                                                                                                                                                                                         | Changes and version history.                                                                                                                                                                                                                                                                                                                 |
 | 💝 **[Contribute]**                                                                                                                                                                                                       | How to contribute to the spaCy project and code base.                                                                                                                                                                                                                                                                                        |
 | 👕 **[Swag]**                                                                                                                                                                                                             | Support us and our work with unique, custom-designed swag!                                                                                                                                                                                                                                                                                   |
@@ -62,6 +62,7 @@ open-source software, released under the
 [universe]: https://spacy.io/universe
 [spacy vs code extension]: https://github.com/explosion/spacy-vscode
 [videos]: https://www.youtube.com/c/ExplosionAI
+[live stream]: https://www.youtube.com/playlist?list=PLBmcuObd5An5_iAxNYLJa_xWmNzsYce8c
 [online course]: https://course.spacy.io
 [blog]: https://explosion.ai
 [project templates]: https://github.com/explosion/projects
@@ -79,13 +80,14 @@ more people can benefit from it.
 | Type                            | Platforms                               |
 | ------------------------------- | --------------------------------------- |
 | 🚨 **Bug Reports**              | [GitHub Issue Tracker]                  |
-| 🎁 **Feature Requests & Ideas** | [GitHub Discussions]                    |
+| 🎁 **Feature Requests & Ideas** | [GitHub Discussions] · [Live Stream]    |
 | 👩‍💻 **Usage Questions**          | [GitHub Discussions] · [Stack Overflow] |
-| 🗯 **General Discussion**        | [GitHub Discussions]                    |
+| 🗯 **General Discussion**        | [GitHub Discussions] · [Live Stream]   |
 
 [github issue tracker]: https://github.com/explosion/spaCy/issues
 [github discussions]: https://github.com/explosion/spaCy/discussions
 [stack overflow]: https://stackoverflow.com/questions/tagged/spacy
+[live stream]: https://www.youtube.com/playlist?list=PLBmcuObd5An5_iAxNYLJa_xWmNzsYce8c
 
 ## Features
 
@@ -115,7 +117,7 @@ For detailed installation instructions, see the
 
 - **Operating system**: macOS / OS X · Linux · Windows (Cygwin, MinGW, Visual
   Studio)
-- **Python version**: Python 3.7+ (only 64 bit)
+- **Python version**: Python >=3.7, <3.13 (only 64 bit)
 - **Package managers**: [pip] · [conda] (via `conda-forge`)
 
 [pip]: https://pypi.org/project/spacy/

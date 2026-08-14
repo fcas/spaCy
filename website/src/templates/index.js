@@ -58,8 +58,8 @@ const AlertSpace = ({ nightly, legacy }) => {
 }
 
 const navAlert = (
-    <Link to="https://form.typeform.com/to/WlflqP1b" noLinkLayout>
-        💥 Interested in <strong>Premium spaCy Models</strong>?
+    <Link to="https://beta.ellf.ai" noLinkLayout>
+        💥 Beta test our new tool for <strong>agentic NLP development</strong>!
     </Link>
 )
 

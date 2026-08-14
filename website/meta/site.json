@@ -75,8 +75,9 @@
         {
             "label": "Connect",
             "items": [
-                { "text": "Twitter", "url": "https://twitter.com/spacy_io" },
+                { "text": "Bluesky", "url": "https://bsky.app/profile/explosion-ai.bsky.social" },
                 { "text": "GitHub", "url": "https://github.com/explosion/spaCy" },
+                { "text": "Live Stream", "url": "https://www.youtube.com/playlist?list=PLBmcuObd5An5_iAxNYLJa_xWmNzsYce8c" },
                 { "text": "YouTube", "url": "https://youtube.com/c/ExplosionAI" },
                 { "text": "Blog", "url": "https://explosion.ai/blog" }
             ]
